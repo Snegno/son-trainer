@@ -154,6 +154,10 @@ p {
 		flex-wrap: wrap;
 		flex-flow: column wrap;
 	}
+	.twoNumber {
+		width: 21%;
+		height: 14%;
+	}
 	.calc {
 		flex-direction: row;
 		flex-wrap: wrap;
