@@ -93,7 +93,7 @@ function calc() {
 
 enter.onclick = calc;
 document.addEventListener('keyup', function(e){
-	if(e.code == 'Enter' || e.code == ){
+	if(e.code == 'Enter') {
 		calc();
 	}
-}) 
+});

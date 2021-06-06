@@ -153,7 +153,6 @@ p {
 		flex-direction: row;
 		flex-wrap: wrap;
 		flex-flow: column wrap;
-		border: 1px solid red;
 	}
 	.calc {
 		flex-direction: row;
