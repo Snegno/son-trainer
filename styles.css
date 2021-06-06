@@ -155,8 +155,8 @@ p {
 		flex-flow: column wrap;
 	}
 	.twoNumber {
-		width: 21%;
-		height: 14%;
+		width: 20%;
+		height: 25%;
 	}
 	.calc {
 		flex-direction: row;
@@ -179,7 +179,10 @@ p {
 		position: absolute;
 		top: 220px;
 		left: 230px;
-		font-size: 10px;
+	}
+	.right_res, .result {
+		font-size: 17px;
+		margin-left: 2px;
 	}
 	.enter {
 		width: 90px;
