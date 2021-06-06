@@ -169,13 +169,13 @@ p {
 		position: absolute;
 		top: 180px;
 		left: 230px;
-		font-size: 13px;
+		font-size: 10px;
 	}
 	.right {
 		position: absolute;
 		top: 220px;
 		left: 230px;
-		font-size: 13px;
+		font-size: 10px;
 	}
 	.enter {
 		width: 90px;
