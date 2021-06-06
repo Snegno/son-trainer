@@ -157,7 +157,6 @@ p {
 	.calc {
 		flex-direction: row;
 		flex-wrap: wrap;
-		border: 1px solid red;
 	}
 	.calc__numbers {
 		margin: 65px 0 0 -50px;
@@ -170,11 +169,13 @@ p {
 		position: absolute;
 		top: 180px;
 		left: 235px;
+		font-size: 18px;
 	}
 	.right {
 		position: absolute;
 		top: 210px;
 		left: 235px;
+		font-size: 18px;
 	}
 	.enter {
 		width: 90px;
@@ -187,7 +188,7 @@ p {
 	    position: absolute;
 	    top: 132px;
 	    left: 27px;
-	    font-size: 24px;
+	    font-size: 20px;
 	}
 }
 
