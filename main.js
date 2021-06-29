@@ -93,9 +93,8 @@ function calc() {
 
 enter.onclick = calc;
 document.addEventListener('keyup', function(e){
-	if(e.code == 'Enter' || e.code == 'NumpadEnter') {
+	if(e.code == 'Enter' || e.keyCode == 13) {
 		calc();
 	}
-	console.log(e.key);
 });
 
