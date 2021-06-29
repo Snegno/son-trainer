@@ -96,6 +96,6 @@ document.addEventListener('keyup', function(e){
 	if(e.code == 'Enter' || e.code == 'NumpadEnter') {
 		calc();
 	}
-	console.log(e);
+	console.log(e.key);
 });
 
