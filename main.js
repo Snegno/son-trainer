@@ -96,4 +96,6 @@ document.addEventListener('keyup', function(e){
 	if(e.code == 'Enter') {
 		calc();
 	}
+	console.log(e);
 });
+
